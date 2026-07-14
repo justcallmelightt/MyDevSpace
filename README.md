@@ -1,2 +1,2 @@
 # MyDevSpace
-Pre-Alpha
+Pre-Alpha (this is MVP)
